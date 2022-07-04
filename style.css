@@ -10,8 +10,11 @@ body{
     width: 50%;
 }
 .half-width img{
-    width: 60%;
-}
+    width: 60%;}
+  
+ .eat-sleep{
+    margin-left: 40px;
+ }   
 .order-food{
     text-decoration: none;
     background-color: rgb(255, 115, 0);
