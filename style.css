@@ -23,6 +23,7 @@ body{
 }
 .top-banner{
     background-image: url(img/7.png);
+    margin: 0;
 }
 .text-aline{
     text-align: center;
