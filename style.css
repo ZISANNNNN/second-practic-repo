@@ -24,3 +24,21 @@ body{
 .top-banner{
     background-image: url(img/7.png);
 }
+.text-aline{
+    text-align: center;
+}
+.recipie-title{
+    display: flex;
+    width: 60%;
+    margin: 10px 10px ;
+    padding: 10px 10px;
+    -moz-box-align: center;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+#cock{
+    border-right: 20px solid white;
+    margin-left: 5px;
+  
+}
